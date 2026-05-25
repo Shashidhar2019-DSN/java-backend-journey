@@ -2,7 +2,7 @@
 
 ## Project 1: Student Management System
 
-A console-based Java project built using Object-Oriented Programming concepts.
+A console-based Java project built using Object-Oriented Programming (OOP) concepts.
 
 ## Features
 - Add student
@@ -27,6 +27,10 @@ src/
  ├── Course.java
  └── Main.java
 ```
+
+docs/
+.gitignore
+README.md
 
 ## Future Improvements
 - Add ArrayList support
